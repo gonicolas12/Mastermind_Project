@@ -2,8 +2,7 @@
 Mastermind project in Linux (Debian)
 
     Prérequis
-Un système d'exploitation Linux ou Unix (comme macOS)
-Un interpréteur de commandes Bash
+Un système d'exploitation Linux ou Unix (comme macOS) ainsi qu'un interpréteur de commandes Bash
 
     Installation
 Clonez le dépôt dans votre environnement local en utilisant la commande suivante :
