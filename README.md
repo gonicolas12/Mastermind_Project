@@ -6,7 +6,7 @@ Un système d'exploitation Linux ou Unix (comme macOS) ainsi qu'un interpréteur
 
     Installation
 Clonez le dépôt dans votre environnement local en utilisant la commande suivante :
-git clone [URL_DU_DÉPÔT]
+git clone [URL_DU_DEPOT]
 
     Comment Jouer ?
 Lancez le script en utilisant la commande suivante :
